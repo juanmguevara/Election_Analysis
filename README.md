@@ -30,8 +30,25 @@ The analysis of the election show that:
 
 ## Challenge Overview
 
-In our analysis 
+In our final analysis we counted the number of votes per each county and the percentage of votes each county contributed to the election.
+
+Tasks:
+1. A complete list of counties 
+2. Total number of votes each county cast.
+3. The percentage of votes each county contributed to the election.
+4. The largest county contributer
+
 
 ## Challenge Summary
 
-Overall we were able to create a program which could in return: count the number of total votes casted, find the number of votes won per candidate, and getting the percentage of what each candidate won. Subsequently determining the winner of the election.
+The analysis of the election show that:
+- The counties were:
+  - Jefferson
+  - Denver
+  - Arapahoe
+- The county results were:
+  - Jefferson County contributed to 10.5% of the votes and casted (38,855) votes.
+  - Denver County contributed to 82.8% of the votes and casted (306,055) votes.
+  - Arapahoe County contributed to 6.7% of the votes and casted (24,801) votes.
+- The largest County to contribute to the election was:
+  - Denver, who contributed 82.8% of the votes and (306,055) votes.
